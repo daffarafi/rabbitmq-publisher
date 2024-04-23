@@ -9,3 +9,6 @@ URL "amqp://guest:guest@localhost:5672" merupakan URL koneksi ke server AMQP (Ra
 
 Opening RabbitMQ in http://localhost:15672 
 ![Running RabbitMQ](img/running-rabbitmq.png)
+
+Sending and processing event.
+![Sending and processing event.](img/sending-and-processing-event.png)
