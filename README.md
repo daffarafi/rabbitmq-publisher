@@ -12,3 +12,6 @@ Opening RabbitMQ in http://localhost:15672
 
 Sending and processing event.
 ![Sending and processing event.](img/sending-and-processing-event.png)
+
+Monitoring chart based on publisher.
+![Monitoring chart based on publisher](img/monitoring-chart-based-on-publisher.png)
